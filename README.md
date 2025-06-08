@@ -19,7 +19,7 @@ Mais do que um portfólio, este site é um retrato do meu jeito de pensar: organ
 
 ## Acesse o site
 
-Você pode visitar o site por este link: [https://seuusuario.github.io/seu-repositorio](https://madafonte.github.io/site-portifolio)
+Você pode visitar o site por este link: [https://madafonte.github.io/site-portifolio](https://madafonte.github.io/site-portifolio)
 
 ## Contato
 
